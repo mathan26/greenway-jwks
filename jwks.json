@@ -4,6 +4,8 @@
       "crv": "P-384",
       "kid": "greenway-es384-key-001",
       "kty": "EC",
+      "alg": "ES384",
+      "use": "sig",
       "x": "LHNJXny2x-53wznrY-YA5vE5XRN23Rzs6EKie1FrfCQs6_jcSMp5UtKuVItVF1CM",
       "y": "3gVb8-_M3tAfDscqz3oa-PMwZ6RXSb61cCieuUCXl0KK6bJZwohw5lrv7SDuOMoZ"
     }
