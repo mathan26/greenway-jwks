@@ -1,9 +1,13 @@
 {
-    "kty": "EC",
-    "use": "sig",
-    "crv": "P-384",
-    "kid": "greenway-es384-key-001",
-    "x": "_bunXNHhkMTSYq2-NSQvQIOwvHk-damt5I2uQuOqN_kt7H9XKwVELviBgUcrqhHZ",
-    "y": "asgj-QJfOtEsdJJkKVq1ypdU7Z_ZqfJD1MHPxuF4GMUUn_GwBkrZB30anQ4h-bRN",
-    "alg": "ES384"
+  "keys": [
+    {
+      "kty": "EC",
+      "kid": "my-key-id-001",
+      "crv": "P-384",
+      "x": "6f5LEGwowp9E2yOq7gqJrm03Cj9wNLmyMeek5REycLMju5HBKdyn0-L5t2dRFCPB",
+      "y": "fFamq1LBQcYGFdvfCo0NkKjyfvWOyT4-njL5aaBD02Rb3Y2K81lq29PY2oEtylol",
+      "alg": "ES384",
+      "use": "sig"
+    }
+  ]
 }
